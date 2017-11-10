@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var listOfWords = ["frequent", "Xylofoon", "chronologisch", "autoband", "telefooncel", "programmeren"]
+    var listOfWords = ["frequent", "xylofoon", "chronologisch", "autoband", "telefooncel", "programmeren"]
     
     let incorrectMovesAllowed = 7
     
